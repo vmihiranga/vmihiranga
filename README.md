@@ -47,16 +47,14 @@ const vishwa = {
 
 <div align="center">
   
-### Option 1: GitHub Profile Summary Cards
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vimihiranga&theme=tokyonight" alt="Profile Details" />
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vimihiranga&theme=tokyonight" width="48%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vimihiranga&theme=tokyonight" width="48%" />
 
-### Option 2: GitHub Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vimihiranga&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
-### Option 3: Simple Metrics
 ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vimihiranga&show_icons=true&theme=tokyonight)
 
@@ -87,7 +85,8 @@ Coming soon... Check my pinned repositories below! ⬇️
 - **Portfolio:** [vishwamihiranga.netlify.app](https://vishwamihiranga.netlify.app)
 - **Email:** vishwamihi22@gmail.com
 - **Phone:** +94 72 482 6875
-
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
