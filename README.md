@@ -48,12 +48,12 @@ const vishwa = {
 <div align="center">
   
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vimihiranga&theme=tokyonight" alt="Profile Details" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vmihiranga&theme=tokyonight" alt="Profile Details" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vimihiranga&theme=tokyonight" width="48%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmihiranga&theme=tokyonight" width="48%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vimihiranga&theme=tokyonight" width="48%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vimihiranga&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vmihiranga&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vimihiranga&show_icons=true&theme=tokyonight)
