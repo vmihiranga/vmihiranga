@@ -46,12 +46,13 @@ const vishwa = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vimihiranga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vimihiranga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimihiranga&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimihiranga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimihiranga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimihiranga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 </div>
+
+> **Note:** GitHub stats may take a moment to load. If images don't appear, try refreshing the page.
 
 ---
 
@@ -76,6 +77,7 @@ Coming soon... Check my pinned repositories below! ⬇️
 - **Portfolio:** [vishwamihiranga.netlify.app](https://vishwamihiranga.netlify.app)
 - **Email:** vishwamihi22@gmail.com
 - **Phone:** +94 72 482 6875
+
 
 ---
 
