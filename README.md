@@ -46,13 +46,11 @@ const vishwa = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=vimihiranga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vimihiranga&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vimihiranga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vimihiranga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimihiranga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimihiranga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -76,9 +74,8 @@ Coming soon... Check my pinned repositories below! ⬇️
 ## 📫 Let's Connect
 
 - **Portfolio:** [vishwamihiranga.netlify.app](https://vishwamihiranga.netlify.app)
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **Email:** vishwamihi22@gmail.com
+- **Phone:** +94 72 482 6875
 
 ---
 
