@@ -46,13 +46,23 @@ const vishwa = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vimihiranga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimihiranga&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimihiranga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+  
+### Option 1: GitHub Profile Summary Cards
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vimihiranga&theme=tokyonight" alt="Profile Details" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vimihiranga&theme=tokyonight" width="48%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vimihiranga&theme=tokyonight" width="48%" />
+
+### Option 2: GitHub Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vimihiranga&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
+### Option 3: Simple Metrics
+![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vimihiranga&show_icons=true&theme=tokyonight)
+
 </div>
 
-> **Note:** GitHub stats may take a moment to load. If images don't appear, try refreshing the page.
+> **Note:** Choose one option that works best for you and remove the others!
 
 ---
 
